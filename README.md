@@ -1,6 +1,6 @@
 # Financial Planner Application
 
-There are two sections to this application. In the first section, i create a personal financial planner for emergencies. To do this, i assume that The average monthly household income for each credit union member is //$12,000, and each credit union member has a savings portfolio that consists of a cryptocurrency wallet, stocks, and bonds.
+There are two sections to this application. In the first section, i create a personal financial planner for emergencies. To do this, i assume that The average monthly household income for each credit union member is $12,000, and each credit union member has a savings portfolio that consists of a cryptocurrency wallet, stocks, and bonds.
 First, I evaluate the cryptocurrency wallet by using the requests library. I assume that the member holds 1.2 Bitcoins 5.3 Etherium coins. I then evaluate the stock and bond holdings by using the Alpca SDK. 
 Next, I use the valuations for the cryptocurrency wallet and for the stock and bond portions of the portfolio to determine if the credit union member has enough savings to build an emergency fund into their financial plan. I also build a pie chart that visualizes the composition of the member’s portfolio.
 If the member's total portfolio's value is greater than the amount needed to fund the emrgency fund, my application will print a congradulatory message. If the amount is less than the amount needed to fund the emergency fund, my application will tell the member how much more money he will need to fund it.
