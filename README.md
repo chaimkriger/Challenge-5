@@ -26,8 +26,7 @@ Before running the application, python must be installed.
 
 ## Usage
 
-To use the Financial Planner Application, simply run the code. You can custom tailer the application for  your own needs, by simply swapping any of the data with your own. For example, you can updaate the monthly income, and the emergency fund threshold as desired. you can also change the amount of years for the Monte Carlo simulation, the tickers in the portfolio, or the weights distribution. 
-
+To use the Financial Planner Application, simply run the code. You can custom tailer the application for your own needs, by simply swapping any of the data with your own. For example, you can update the monthly income, and the emergency fund threshold as desired. you can also change the amount of years for the Monte Carlo simulation, the tickers in the portfolio, or the weights distribution. 
 
 ---
 
